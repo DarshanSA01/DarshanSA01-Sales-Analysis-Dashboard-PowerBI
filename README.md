@@ -1,1 +1,1 @@
-# DarshanSA01-Sales-Analysis-Dashboard-PowerBI
+# This Power BI dashboard provides an in-depth analysis of sales data, including key performance metrics, revenue trends, regional sales distribution, and product-wise performance. It features interactive visualizations to help identify patterns, track growth, and support data-driven decision-making.
